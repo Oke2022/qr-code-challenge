@@ -23,8 +23,8 @@ I love this excercise because it helps me to freely play with container, margin 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://oke2022.github.io/qr-code-challenge/)
+- Live Site URL: [Add live site URL here](https://oke2022.github.io/qr-code-challenge/)
 
 ### Built with
 

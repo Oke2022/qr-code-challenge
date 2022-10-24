@@ -1,10 +1,13 @@
 * {
     box-sizing: border-box;
-    margin: auto;
+    margin: 0;
     padding: 0;
 }
 
 body {
+    min-height: 100vh;
+    display: grid;
+    place-content: center;
     background-color: hsl(212deg, 45%, 89%);
     font-family: Outfit;
 }
@@ -41,10 +44,4 @@ p {
     -moz-border-radius: 20px;
     -ms-border-radius: 20px;
     -o-border-radius: 20px;
-}
-
-@media(max-width:375px) {
-    .QR-Code-container {
-        width: 95%;
-    }
 }
