@@ -21,16 +21,17 @@ img {
     -o-border-radius: 10px;
 }
 
-h2 {
+h1 {
+    font-size: 25px;
     font-weight: 700;
-    padding: 1rem;
+    padding: 1rem 0;
 }
 
 p {
     font-weight: 400;
     font-size: 15px;
     padding: 0 1.5rem 1.5rem;
-    color: hsl(212, 45%, 70%);
+    color: hsl(216.3, 19.8%, 47.5%);
 }
 
 .QR-Code-container {
